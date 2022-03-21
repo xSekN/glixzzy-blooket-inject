@@ -1,0 +1,9 @@
+{
+	"title": "Glixzzy Scripts",
+	"description": "Add Glixzzy's scripts to the GUI. Learn how to open the GUI by going to https://thatfrueddued.github.io/blooket-utility.",
+	"author": "ThatFruedDued",
+	"url": "https://orangemn6.xyz",
+	"scripts": [
+		"https://raw.githubusercontent.com/orangemn6/blookject/main/gui.js"
+	]
+}

@@ -2,7 +2,7 @@ async function runScript(path) {
   eval(
     await (
       await fetch(
-        "https://raw.githubusercontent.com/glixzzy/blooket-hack/main/" + path
+        "https://raw.githubusercontent.com/glixxzzy/blooket-hack/main/" + path
       )
     ).text()
   );

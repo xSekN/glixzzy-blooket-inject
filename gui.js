@@ -7,8 +7,8 @@ async function runScript(path) {
     ).text()
   );
 }
-blooketUtility.api.gui.glixzzy = {
-  title: "Glixzzy",
+blooketUtility.api.gui.glixxzzy = {
+  title: "Glixxzzy",
   ...[
     {
       title: "Battle Royale",

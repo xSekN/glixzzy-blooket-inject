@@ -1,2 +1,2 @@
 # glixzzy-blooket-inject
-So! I am trying to make an injectable for TheFredDuead. It is for Glixzzy's hacks. It isn't working yet though.
+So! I am trying to make an injectable for ThatFruedDued. It is for Glixzzy's hacks. It isn't working yet though.

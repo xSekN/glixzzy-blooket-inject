@@ -9,8 +9,6 @@ async function runScript(path) {
 }
 blooketUtility.api.gui.glixxzzy = {
   title: "Glixxzzy",
-  ...[
-    {
       title: "Blook Rush",
       ...[
         {

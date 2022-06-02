@@ -1,4 +1,2 @@
 # glixzzy-blooket-inject
-glixzzy blooket inject 
-Making a glixzzy injet for freddued blooket thing
-not working yet
+So! I am trying to make an injectable for TheFredDuead. It is for Glixzzy's hacks. It isn't working yet though.

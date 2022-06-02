@@ -11,16 +11,6 @@ blooketUtility.api.gui.glixxzzy = {
   title: "Glixxzzy",
   ...[
     {
-      title: "Battle Royale",
-      ...[
-        {
-          isButton: true,
-          title: "Auto Answer",
-          onClick: () => runScript("battle-royale/autoAnswer.js"),
-        },
-      ],
-    },
-    {
       title: "Blook Rush",
       ...[
         {
